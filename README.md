@@ -1,6 +1,7 @@
 # Force Prediction for Parametric Scan Results.
 
 For KOMMMA project, parametric scan results in COMSOL. 
+
 Postprocessing for parametric scan data: 
   1. Plot 3D scatter.
   2. Fit data and get function.
