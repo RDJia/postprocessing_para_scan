@@ -17,7 +17,7 @@ Here is an example of how to use the `Postprocessing` class:
 import pandas as pd
 from plot_and_fit import Postprocessing
 
-filename = 'ALL.xlsx'
+filename = 'ALL_para_scan_results.xlsx'
 
 model = Postprocessing(filename)
 model.plot_data()
