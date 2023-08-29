@@ -27,4 +27,4 @@ X_new = pd.DataFrame([[100, 200, 0]], columns=['ds (µm)', 'dist (µm)', 'theta 
 model.predict(X_new)
 
 ```
-In this example, we first create an instance of the Postprocessing class by passing the path of the Excel file. Then, we call the plot_data method to plot the data, the fit_data method to fit the model, and the predict method to make predictions.
+In this example, we first create an instance of the Postprocessing class by passing the path of the Excel file. Then, we call the plot_data method to plot the data, the fit_data method to fit the model. Finally, use the predict method to make predictions based on parameters: ds = 100 (µm), dist = 200 (µm), theta = 0 (deg).
