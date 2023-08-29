@@ -2,7 +2,7 @@
 
 Postprocessing for parametric scan data: 
   1. Plot 3D scatter.
-  2. 2. Fit data and get function.
+  2. Fit data and get function.
 
 The model uses three parameters: width, distance, and angle, to predict the force. The data is read from an Excel file, and the model is trained using three different regression models: Linear Regression, Ridge Regression, and Lasso Regression. The best model is selected using cross-validation.
 
