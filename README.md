@@ -1,4 +1,5 @@
-# Force Prediction Model
+# Force Prediction for Parametric Scan Results.
+// for KOMMMA project, parametric scan results in COMSOL.
 
 Postprocessing for parametric scan data: 
   1. Plot 3D scatter.
